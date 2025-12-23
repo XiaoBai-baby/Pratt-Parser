@@ -5,7 +5,7 @@ and integrate well into regular recursive descent parsers.
 | Crate name        | Description                                                       |
 | ----------------- | ----------------------------------------------------------------- |
 | calculator_engine | Implementation of expression parser and execution modules         |
-| calculator_cli    | Simple CLI interface that reads input from command line arguments ![image](https://github.com/XiaoBai-baby/Pratt-Parser/tree/master/images/Pratt%20Parser.gif)
+| calculator_cli    | Simple CLI interface that reads input from command line arguments ![image](https://github.com/XiaoBai-baby/Pratt-Parser/blob/dd10e575071b0302f88cf5497b0e889c5a26639a/images/Pratt%20Parser.gif)
 
 ## Features
 This project is secondary development. It employs an AI-driven converter to convert "Rust" code into "C/C++" code .
